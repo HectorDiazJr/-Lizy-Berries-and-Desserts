@@ -88,15 +88,24 @@
 @media (max-width: 1028px) {
   .parr {
     margin: 0;
+    font-size: 20px;
   }
   .featuredImg {
     margin: 0;
   }
   .parr2 {
     margin: 0;
+    font-size: 20px;
   }
   .featuredImg2 {
     margin: 0;
+    margin-bottom: 25px;
+  }
+  .order {
+      text-align: center;
+  }
+  .orderText {
+      width:85%;
   }
 }
 
