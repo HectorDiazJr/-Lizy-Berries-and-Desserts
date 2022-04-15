@@ -1,0 +1,65 @@
+.aboutUs {
+  background-color: #ffbe7bff;
+}
+
+.big-heading {
+  font-family: "Ms Madi", cursive;
+  font-size: 70px;
+  color: darkred;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.big-heading1 {
+  font-family: "Ms Madi", cursive;
+  font-size: 70px;
+  color: darkred;
+  text-align: center;
+}
+
+.big-headingParr {
+  font-family: "Abel", sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+.placeOrder {
+    font-family: "Ms Madi", cursive;
+  font-size: 70px;
+  color: darkred;
+  text-align: center;
+}
+
+.order {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.sendbtn {
+    background-color: #EED971FF;  
+}
+
+
+.featuredClass {
+    background-color: #EED971FF;
+}
+
+.featuredImg {
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+.Parr {
+    font-family: "Abel", sans-serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-right: 30%;
+    margin-top: 100px;
+  }
+
