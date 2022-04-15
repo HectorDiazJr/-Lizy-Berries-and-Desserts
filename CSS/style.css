@@ -27,7 +27,7 @@
 }
 
 .placeOrder {
-    font-family: "Ms Madi", cursive;
+  font-family: "Ms Madi", cursive;
   font-size: 70px;
   color: darkred;
   text-align: center;
@@ -37,29 +37,92 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 50px;
 }
 
 .sendbtn {
-    background-color: #EED971FF;  
+  background-color: #eed971ff;
 }
 
+.orderparr {
+    margin-top: 10px;
+    text-align: center;
+    font-family: "Abel", sans-serif;
+    padding-bottom: 50px;
+    font-style: italic;
+}
 
 .featuredClass {
-    background-color: #EED971FF;
+  background-color: #eed971ff;
 }
 
 .featuredImg {
-    margin-left: 20%;
-    margin-top: 20px;
+  margin-left: 20%;
+  margin-top: 20px;
 }
 
-.Parr {
-    font-family: "Abel", sans-serif;
-    font-size: 40px;
-    color: black;
-    text-align: center;
-    margin-right: 30%;
-    margin-top: 100px;
-  }
+.parr {
+  font-family: "Abel", sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+  margin-right: 30%;
+  margin-top: 100px;
+}
 
+.featuredImg2 {
+  margin-right: 20%;
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+.parr2 {
+  font-family: "Abel", sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+@media (max-width: 1028px) {
+  .parr {
+    margin: 0;
+  }
+  .featuredImg {
+    margin: 0;
+  }
+  .parr2 {
+    margin: 0;
+  }
+  .featuredImg2 {
+    margin: 0;
+  }
+}
+
+.priceHeading {
+  font-family: "Ms Madi", cursive;
+  font-size: 75px;
+  color: darkred;
+  text-align: center;
+}
+
+.priceParr {
+  font-family: "Abel", sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.social-icon:hover {
+  color: #ff4c68;
+}
+
+.white-section {
+  background-color: #fff;
+  text-align: center;
+}
